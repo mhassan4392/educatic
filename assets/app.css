@@ -1,0 +1,36 @@
+/* navbar */
+.navbar {
+  z-index: 1000;
+}
+
+.navbar-brand img {
+  max-height: 70px;
+}
+
+/* main content */
+.main-content {
+  margin-top: 120px;
+}
+
+/* social media floting icons */
+.social-media-floating-icons .facebook {
+  background-color: #3b5998;
+  border-top-left-radius: 50%;
+  cursor: pointer;
+}
+
+.social-media-floating-icons .youtube {
+  background-color: #c4302b;
+  cursor: pointer;
+}
+
+.social-media-floating-icons .whatsapp {
+  background-color: #25d366;
+  border-bottom-left-radius: 50%;
+  cursor: pointer;
+}
+
+/* Social modals */
+.social-modal-close-icon {
+  z-index: 1000;
+}
